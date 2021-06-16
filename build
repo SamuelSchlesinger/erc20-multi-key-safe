@@ -1,0 +1,2 @@
+#!/bin/bash
+solcjs Safe.sol Withdrawal.sol IERC20.sol --bin
